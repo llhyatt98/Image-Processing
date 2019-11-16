@@ -1,0 +1,1 @@
+Here lies an image processing program allowing users to filter BMP images. Simply run the img executable produced by the MakeFile, and make sure to check the output folder for the newly filtered image!
